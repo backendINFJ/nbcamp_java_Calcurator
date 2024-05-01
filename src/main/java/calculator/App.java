@@ -9,7 +9,7 @@ import java.util.LinkedList;
 
 public class App {  // 계산 메서드
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { // 배운거 써먹기 + 다른 패키지 호출 방지 , protected에서 재정의할 시 하위 범주로만 가능
 
 
         Scanner sc = new Scanner(System.in); // 사용자 입력을 받기 위해 스캐너 선언
